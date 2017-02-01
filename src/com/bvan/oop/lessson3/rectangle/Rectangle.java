@@ -1,8 +1,6 @@
-package com.bvan.oop.lesson2.rectangle.oop;
+package com.bvan.oop.lessson3.rectangle;
 
 /**
- * Immutable rectangle.
- *
  * @author bvanchuhov
  */
 public class Rectangle {
@@ -26,28 +24,20 @@ public class Rectangle {
         return 2 * (width + height);
     }
 
-    @Override
-    public String toString() {
-        return "Rectangle{" +
-                "width=" + width +
-                ", height=" + height +
-                '}';
-    }
-
     public double getWidth() {
         return width;
-    }
-
-    public Rectangle changeWidth(double width) {
-        return new Rectangle(width, height);
     }
 
     public double getHeight() {
         return height;
     }
 
-    public Rectangle setHeight(double height) {
-        return new Rectangle(width, height);
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "width=" + width +
+                ", height=" + height +
+                '}';
     }
 
     private void checkHeight(double height) {
