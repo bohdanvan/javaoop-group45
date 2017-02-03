@@ -1,4 +1,4 @@
-package com.bvan.oop.lessson3.rectangle;
+package com.bvan.oop.lesson3.rectangle;
 
 import java.util.ArrayList;
 import java.util.StringJoiner;

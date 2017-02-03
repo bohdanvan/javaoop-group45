@@ -1,6 +1,6 @@
-package com.bvan.oop.lessson3.shape.client;
+package com.bvan.oop.lesson3.shape.client;
 
-import com.bvan.oop.lessson3.shape.Circle;
+import com.bvan.oop.lesson3.shape.Circle;
 
 /**
  * @author bvanchuhov

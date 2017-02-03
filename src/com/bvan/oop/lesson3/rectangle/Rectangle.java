@@ -1,4 +1,4 @@
-package com.bvan.oop.lessson3.rectangle;
+package com.bvan.oop.lesson3.rectangle;
 
 /**
  * @author bvanchuhov

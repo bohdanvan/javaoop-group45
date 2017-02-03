@@ -1,4 +1,4 @@
-package com.bvan.oop.lessson3;
+package com.bvan.oop.lesson3;
 
 /**
  * @author bvanchuhov

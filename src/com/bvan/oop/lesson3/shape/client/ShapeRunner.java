@@ -1,9 +1,9 @@
-package com.bvan.oop.lessson3.shape.client;
+package com.bvan.oop.lesson3.shape.client;
 
-import com.bvan.oop.lessson3.shape.Circle;
-import com.bvan.oop.lessson3.shape.EquilateralTriangle;
-import com.bvan.oop.lessson3.shape.Rectangle;
-import com.bvan.oop.lessson3.shape.Shape;
+import com.bvan.oop.lesson3.shape.Circle;
+import com.bvan.oop.lesson3.shape.EquilateralTriangle;
+import com.bvan.oop.lesson3.shape.Rectangle;
+import com.bvan.oop.lesson3.shape.Shape;
 
 /**
  * @author bvanchuhov
