@@ -15,7 +15,9 @@ Prog.kiev.ua. Java OOP. Группа 45
 
 [Java OOP. Богдан. Группа 45. Лекция 6 (09.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2757.0.html)
 
-[Java OOP. Богдан. Группа 45. Лекция 7 (15.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2769.0.html)
+[Java OOP. Богдан. Группа 45. Лекция 7 (14.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2769.0.html)
+
+[Java OOP. Богдан. Группа 45. Лекция 8 (16.02.2017)](https://prog.kiev.ua/forum/index.php/topic,2771.0.html)
 
 ## Видео/аудио лекций
 
