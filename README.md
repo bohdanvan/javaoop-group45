@@ -21,9 +21,9 @@ Prog.kiev.ua. Java OOP. Группа 45
 
 ## Видео/аудио лекций
 
-[Видеозапись лекций](https://mega.nz/#F!fI9ACBqB!D7bquUJHq-oDWGYR073xIA)
+[Видеозапись лекций](https://mega.nz/#F!fI9ACBqB)
 
-[Аудиозапись лекций](https://mega.nz/#F!iIUhgL5T!xyh6AZYBFNvcl2pwS0sjUQ)
+[Аудиозапись лекций](https://mega.nz/#F!iIUhgL5T)
 
 ## Курсовой проект
 
