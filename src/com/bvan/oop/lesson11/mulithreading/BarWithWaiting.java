@@ -21,13 +21,11 @@ public class BarWithWaiting {
 
         ThreadUtils.println("Bar is closed");
     }
-
     private static void startAll(List<Thread> drinkerThreads) {
         for (Thread drinkerThread : drinkerThreads) {
             drinkerThread.start();
         }
     }
-
     private static void joinAll(List<Thread> drinkerThreads) throws InterruptedException {
         for (Thread drinkerThread : drinkerThreads) {
             drinkerThread.join();
